@@ -1,6 +1,8 @@
 # H4X0R-News
 This is a Hacker News Reader app written in Swift with instructor Angela Yu. 
-Unlike other Swift apps in my page, instead of UIKit, SwiftUI used for the user ınterface.
+
+Unlike other Swift apps in my page, instead of UIKit, SwiftUI used for the user interface.
+
 You can find the screenshots of the application below.
 
 ![ss1](https://user-images.githubusercontent.com/67782476/196004211-ce57b571-5d55-4705-b93d-2d7db6f6cb73.png)
